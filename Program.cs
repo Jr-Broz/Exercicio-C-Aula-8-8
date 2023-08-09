@@ -45,11 +45,6 @@ namespace Aula_Presencial_8_80
             else {
                 Console.WriteLine("Ip invalido");
             }
-
-
         }
-
-
-  
     }
 }
